@@ -8,3 +8,4 @@ ___
 ## Conteúdo
 - Diferenças entre formatar tabelas manualmente e '**Formatar como Tabela**'
 - Duas planilhas, cada uma representa um tipo de formatação
+- Gráfico Dinâmico
