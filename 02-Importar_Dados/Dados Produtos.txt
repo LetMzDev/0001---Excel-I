@@ -1,0 +1,63 @@
+ID Produto	Categoria
+PD001	Agro 
+PD002	Alimentos e bebidas
+PD003	Artes
+PD004	Artes e artesanato
+PD005	Artigos de festa
+PD006	Artigos de natal
+PD007	Áudio
+PD008	Automotivo
+PD009	Bebês
+PD010	Bebidas
+PD011	Beleza e saúde
+PD012	Brinquedos
+PD013	Cama mesa e banho
+PD014	Casa e conforto
+PD015	Casa e construção
+PD016	Musicais
+PD017	Cine e foto
+PD018	Climatização
+PD019	Consoles e games
+PD020	Construção
+PD021	Ferramentas
+PD022	Iluminação
+PD023	Jardinagem
+PD024	Ferramentas de segurança
+PD025	Dvds bluray
+PD026	Eletrodomésticos
+PD027	Eletrônicos
+PD028	Eletroportáteis
+PD029	Esporte e lazer
+PD030	Bolsas e acessórios
+PD031	Fashion calçados
+PD032	Fashion esporte
+PD033	Roupa feminina
+PD034	Roupa infatil
+PD035	Roupa masculina
+PD036	Underwear e praia
+PD037	Flores
+PD038	Fraldas e higiene
+PD039	Indústria
+PD040	Informática
+PD041	Instrumentos musicais
+PD042	La Cuisine
+PD043	Livros importados
+PD044	Livros técnicos
+PD045	Malas acessórios
+PD046	Market place
+PD047	Colchão e estofado
+PD048	Móveis de decoração
+PD049	Móveis de escritório
+PD050	Móveis de quarto
+PD051	Móveis da sala
+PD052	Música
+PD053	Papelaria
+PD054	Pcs
+PD055	Perfumaria
+PD056	Pet Shop
+PD057	Portáteis da casa 
+PD058	Processadores de alimentos
+PD059	Relógios e presentes
+PD060	Sinalização e segurança
+PD061	Tablets e impressão 
+PD062	Telefonia

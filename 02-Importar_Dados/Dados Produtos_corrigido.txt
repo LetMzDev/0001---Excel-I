@@ -1,0 +1,63 @@
+ID Produto	Categoria	Nome	Preço Unitário (R$)
+PD001	Eletrônicos	Smartphone XYZ	1999.99
+PD002	Eletrônicos	Televisão 4K Ultra HD	2999.90
+PD003	Eletrônicos	Fone de Ouvido Bluetooth	299.90
+PD004	Eletrônicos	Notebook Gamer	5999.99
+PD005	Eletrônicos	"Tablet 10"""	1499.90
+PD006	Eletrônicos	Smartwatch	999.90
+PD007	Eletrônicos	Câmera Digital	2499.90
+PD008	Eletrônicos	Caixa de Som Bluetooth	499.90
+PD009	Eletrônicos	"Monitor 24"""	899.90
+PD010	Eletrônicos	Impressora Multifuncional	399.90
+PD011	Informática	Teclado Mecânico	349.90
+PD012	Informática	Mouse Gamer	199.90
+PD013	Informática	Roteador Wi-Fi 6	699.90
+PD014	Informática	SSD 1TB	499.90
+PD015	Informática	Placa de Vídeo	2999.90
+PD016	Informática	Memória RAM 16GB	799.90
+PD017	Informática	Fonte de Alimentação 600W	349.90
+PD018	Informática	Gabinete Mid Tower	499.90
+PD019	Informática	Placa-Mãe	899.90
+PD020	Informática	Processador	1299.90
+PD021	Informática	Headset Gamer	499.90
+PD022	Eletrodomésticos	Geladeira Frost Free	2999.90
+PD023	Eletrodomésticos	Máquina de Lavar Roupas	2299.90
+PD024	Eletrodomésticos	Micro-ondas	499.90
+PD025	Eletrodomésticos	Fogão 4 Bocas	999.90
+PD026	Eletrodomésticos	Liquidificador	199.90
+PD027	Eletrodomésticos	Aspirador de Pó	399.90
+PD028	Eletrodomésticos	Ferro de Passar	149.90
+PD029	Eletrodomésticos	Ar-Condicionado Split	2599.90
+PD030	Eletrodomésticos	Ventilador de Mesa	199.90
+PD031	Eletrodomésticos	Batedeira Planetária	299.90
+PD032	Móveis	Sofá 3 Lugares	1499.90
+PD033	Móveis	Cama Box Casal	1299.90
+PD034	Móveis	Mesa de Jantar	899.90
+PD035	Móveis	Guarda-Roupa 6 Portas	1999.90
+PD036	Móveis	Escrivaninha	499.90
+PD037	Móveis	Estante para Livros	299.90
+PD038	Móveis	Cadeira de Escritório	699.90
+PD039	Móveis	Poltrona	799.90
+PD040	Móveis	Rack para TV	399.90
+PD041	Móveis	Colchão Ortobom	999.90
+PD042	Roupas	Camiseta Básica	49.90
+PD043	Roupas	Calça Jeans	129.90
+PD044	Roupas	Jaqueta de Couro	299.90
+PD045	Roupas	Tênis Esportivo	199.90
+PD046	Roupas	Vestido Feminino	149.90
+PD047	Roupas	Blusa de Frio	99.90
+PD048	Roupas	Shorts Jeans	79.90
+PD049	Roupas	Saia Midi	89.90
+PD050	Roupas	Camisa Social	109.90
+PD051	Roupas	Bermuda Masculina	69.90
+PD052	Calçados	Sapato Social	199.90
+PD053	Calçados	Bota Feminina	299.90
+PD054	Calçados	Sandália	99.90
+PD055	Calçados	Chuteira	149.90
+PD056	Calçados	Tênis Casual	179.90
+PD057	Calçados	Sapatênis	159.90
+PD058	Calçados	Chinelo	29.90
+PD059	Calçados	Mocassim	199.90
+PD060	Calçados	Sapato de Salto	249.90
+PD061	Calçados	Sandália Rasteira	69.90
+PD062	Calçados	Tênis de Corrida	199.90
